@@ -39,7 +39,7 @@ OWNER_NAME: process.env.OWNER_NAME || "MR-SAQIB",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ SAQIB*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "<img src="https://i.supaimg.com/09b17a6c-a286-4de0-b184-27e34289d750.jpg" alt="1000162236" />",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.supaimg.com/09b17a6c-a286-4de0-b184-27e34289d750.jpg",
 // add img for alive msg 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
